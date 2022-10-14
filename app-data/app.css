@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.top-sec {
+    text-align: center;
+    padding: 70px 0 0 0;
+    
+}
+
+
+.main-h {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: 700;
+}
+img {
+    width: 512px;
+}
+
+.profile {
+    max-width: 150px;
+    box-shadow: 16px 8px 20px 0px #00000030;
+    border-radius: 83px;
+}
+
+.skills {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    font-weight: 500;
+
+}
+
+.cus-td {
+    text-align: left;
+    padding-right: 45px;
+}
+td {
+    padding-bottom: 12px;
+}
+.abt {
+    font-weight: 500;
+    font-size: 18px;
+}
